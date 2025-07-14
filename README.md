@@ -14,7 +14,7 @@ I enjoy turning numbers into narratives — crafting dashboards, performing stat
 
 ## 🧰 Tools & Technologies
 
-![Java Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
