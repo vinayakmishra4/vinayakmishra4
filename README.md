@@ -14,7 +14,8 @@ I enjoy turning numbers into narratives — crafting dashboards, performing stat
 
 ## 🧰 Tools & Technologies
 
-![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blueviolet?style=for-the-badge)
+![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 
 ---
 
