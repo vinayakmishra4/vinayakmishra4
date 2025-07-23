@@ -29,10 +29,9 @@ I enjoy turning numbers into narratives — crafting dashboards, performing stat
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakmishra4&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinayakmishra4&theme=dark)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmishra4&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinayakmishra4&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📫 Let's Connect
