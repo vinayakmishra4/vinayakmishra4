@@ -96,7 +96,3 @@ jobs:
 
           commit_message: "Update snake animation [skip ci]"
 
-
-
-Once pasted, commit changes for this snake.yml file.
-
