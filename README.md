@@ -23,6 +23,9 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -32,34 +35,51 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 📦 [Inventory Management System with JSON](https://github.com/vinayakmishra4/Mini-Project-Inventory-Management-System-with-JSON)  
-A **lightweight console-based inventory management system** built using **JSON** for data storage.  
+### 🌾 [Sugarcane Production Data Analysis](https://github.com/vinayakmishra4/Project-Sugarcane-Production)  
+A **data cleaning and analysis project** focused on **global sugarcane production trends**.
+
 **Highlights:**  
-- Add, update, delete, and view stock items  
-- Structured data handling using JSON  
-- Perfect for small business inventory tracking  
+- Cleaned messy real-world dataset  
+- Handled missing values & inconsistent formats  
+- Performed EDA using Pandas & NumPy  
+- Built visual insights using Matplotlib & Seaborn  
+- Prepared dataset for predictive analytics  
+
+---
+
+### 📦 [Inventory Management System with JSON](https://github.com/vinayakmishra4/Mini-Project-Inventory-Management-System-with-JSON)  
+A **lightweight console-based inventory system** using JSON storage.
+
+**Highlights:**  
+- Add, update, delete inventory  
+- Structured data handling  
+- Simple business use-case ready  
 
 ---
 
 ### ➕ [Console-Based Calculator](https://github.com/vinayakmishra4/Mini-Project-Console-Based-Calculator)  
-A **sleek, efficient** calculator supporting all basic arithmetic operations.  
+A **clean command-line calculator** for arithmetic operations.
+
 **Highlights:**  
-- Clean UI with intuitive command-line prompts  
-- Fast and reliable arithmetic engine  
+- Simple and fast UI  
+- Accurate operations  
 
 ---
 
 ### 🛠 [My Python Suite](https://github.com/vinayakmishra4/Project-My-Python-Suite)  
-A **collection of Python utilities** for automation and data manipulation.  
+A **collection of automation and data tools**.
+
 **Highlights:**  
 - Automates repetitive tasks  
-- Simplifies data cleaning and transformation workflows  
+- Helps in data preprocessing workflows  
 
 ---
 
@@ -71,11 +91,11 @@ A **collection of Python utilities** for automation and data manipulation.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinayakmishra4&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vinayakmishra4&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakmishra4&theme=radical" alt="Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakmishra4&theme=radical"/>
 </p>
 
 ---
@@ -83,15 +103,19 @@ A **collection of Python utilities** for automation and data manipulation.
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinayak-mishra-93003b1b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mvinayak316@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinayak-mishra-93003b1b3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mvinayak316@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact  
 
-☕ I turn **coffee into code** and **messy data into powerful insights**.
+☕ I turn **coffee into code** and **messy data into powerful insights**
 
 ---
 
