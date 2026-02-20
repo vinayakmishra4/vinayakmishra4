@@ -74,10 +74,6 @@ A **collection of automation and data tools**.
 
 ## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakmishra4&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmishra4&layout=compact&theme=radical" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vinayakmishra4&theme=radical" />
