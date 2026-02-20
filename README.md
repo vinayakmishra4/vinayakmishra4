@@ -60,14 +60,6 @@ A **lightweight console-based inventory system** using JSON storage.
 - Structured data handling  
 - Simple business use-case ready  
 
----
-
-### ➕ [Console-Based Calculator](https://github.com/vinayakmishra4/Mini-Project-Console-Based-Calculator)  
-A **clean command-line calculator** for arithmetic operations.
-
-**Highlights:**  
-- Simple and fast UI  
-- Accurate operations  
 
 ---
 
