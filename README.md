@@ -62,13 +62,10 @@ A **lightweight console-based inventory system** using JSON storage.
 
 
 ---
+## 📊 [Black Friday Sales Analysis](https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis)
 
-### 🛠 [My Python Suite](https://github.com/vinayakmishra4/Project-My-Python-Suite)  
-A **collection of automation and data tools**.
+Performed **Exploratory Data Analysis (EDA)** on retail sales data to uncover customer purchasing behavior and revenue trends. Identified key revenue drivers such as the **26–35 age group**, **male customers**, **City Category B**, and **top-performing product categories** using Python (Pandas, NumPy, Matplotlib, Seaborn). Generated actionable business insights for marketing, customer targeting, and sales optimization, and prepared the dataset for future machine learning modeling.
 
-**Highlights:**  
-- Automates repetitive tasks  
-- Helps in data preprocessing workflows  
 
 ---
 
