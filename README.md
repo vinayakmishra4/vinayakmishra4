@@ -51,15 +51,17 @@ A **data cleaning and analysis project** focused on **global sugarcane productio
 - Prepared dataset for predictive analytics  
 
 ---
+### ❤️ [Heart Disease Data Analysis](https://github.com/vinayakmishra4/Project-Heart-Disease-Analysis)
 
-### 📦 [Inventory Management System with JSON](https://github.com/vinayakmishra4/Mini-Project-Inventory-Management-System-with-JSON)  
-A **lightweight console-based inventory system** using JSON storage.
+A **data analysis project** focused on **exploring factors related to heart disease**.
 
-**Highlights:**  
-- Add, update, delete inventory  
-- Structured data handling  
-- Simple business use-case ready  
+**Highlights:**
 
+* Loaded and cleaned heart disease dataset
+* Explored clinical & demographic features
+* Performed EDA using Pandas & NumPy
+* Visualized trends with Matplotlib & Seaborn
+* Insights can support predictive analysis
 
 ---
 ## 📊 [Black Friday Sales Analysis](https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis)
