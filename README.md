@@ -70,6 +70,19 @@ Performed **Exploratory Data Analysis (EDA)** on retail sales data to uncover cu
 
 
 ---
+### 🌍 [Global GDP Analysis](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
+
+A **data analysis project** focused on **exploring global economic trends using GDP data**.
+
+**Highlights:**
+
+* Cleaned and processed historical GDP data for 200+ countries
+* Handled missing values and standardized inconsistent formats
+* Performed exploratory data analysis (EDA) using Pandas & NumPy
+* Visualized economic trends with Matplotlib & Seaborn
+* Derived insights on top-performing and emerging economies
+
+---
 
 ## 📊 GitHub Stats & Activity  
 
