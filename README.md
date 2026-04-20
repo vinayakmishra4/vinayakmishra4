@@ -57,12 +57,26 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
 
 ## 🧰 Libraries & Tools
 
+### 📊 Data Analysis
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
+
+### 🕸️ Web Scraping & Data Collection
+<p align="center">
+  <img src="https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+| Library | Best For |
+|---|---|
+| **Beautiful Soup** | Parsing HTML/XML from static pages |
+| **Scrapy** | Full-scale web crawling & scraping pipelines |
+| **Selenium** | Dynamic, JavaScript-rendered websites |
 
 ---
 
