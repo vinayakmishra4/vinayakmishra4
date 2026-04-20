@@ -12,14 +12,33 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
 
 ---
 
-## 🔄 My Data Analysis Workflow
+## 🔄 My Data Science Workflow
 
 ```
-Raw Data  ──►  Clean & Transform  ──►  Analyze  ──►  Visualize  ──►  Insights
-  📥                🧹                   📈              📊              💡
-Collect &       Handle missing        Explore KPIs,    Build charts,   Drive data-
-prepare          values, fix          trends &         dashboards &    backed
-datasets         formats              patterns         stories         decisions
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  ▼                                                                 │
+📋 Problem Definition          Goals, KPIs, success metrics        │
+  │                                                                 │
+  ▼                                                                 │
+📥 Data Collection & EDA ◄─────────────────────────────┐           │
+  │                        revisit data if model fails  │           │
+  ▼                                                     │           │
+🧹 Preprocessing               Clean, encode, engineer  │           │
+  │                                                     │           │
+  ▼                                                     │           │
+🤖 Model Development           Train, tune, validate    │           │
+  │                                                     │           │
+  ▼                                                     │           │
+📊 Evaluation            Metrics, bias checks, A/B ────►┘           │
+  │                                                                 │
+  ▼                                                                 │
+🚀 Deployment                  API, pipeline, serving              │
+  │                                                                 │
+  ▼                                                                 │
+📡 Monitor & Retrain ──── drift detected → retrain loop            │
+  │                                                                 │
+  └──────────────── reframe problem if needed ──────────────────────┘
 ```
 
 ---
