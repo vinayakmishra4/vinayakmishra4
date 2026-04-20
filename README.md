@@ -72,12 +72,6 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
-| Library | Best For |
-|---|---|
-| **Beautiful Soup** | Parsing HTML/XML from static pages |
-| **Scrapy** | Full-scale web crawling & scraping pipelines |
-| **Selenium** | Dynamic, JavaScript-rendered websites |
-
 ---
 
 ## 🚀 Featured Projects
