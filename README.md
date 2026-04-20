@@ -1,7 +1,3 @@
-Here’s your complete, polished GitHub profile README.md with everything integrated (design + projects + scraping tools). Just copy-paste it into your README.md 👇
-
-⸻
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vinayak+Mishra!;Data+Analyst+%7C+Data+Storyteller;Turning+Data+into+Actionable+Insights" />
@@ -37,8 +33,7 @@ Here’s your complete, polished GitHub profile README.md with everything integr
 </p>
 ---
 ## 🚀 Featured Projects  
-### 🌾 Sugarcane Production Analysis  
-🔗 https://github.com/vinayakmishra4/Project-Sugarcane-Production  
+### 🌾 [Sugarcane Production Analysis](https://github.com/vinayakmishra4/Project-Sugarcane-Production)  
 - ✔ Cleaned and transformed messy real-world dataset  
 - ✔ Identified global production trends and top producers  
 - ✔ Visualized insights using Python libraries  
