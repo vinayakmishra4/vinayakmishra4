@@ -1,104 +1,75 @@
-<!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vinayak+Mishra!;Data+Analyst+%7C+Data+Storyteller;Turning+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+Here’s your complete, polished GitHub profile README.md with everything integrated (design + projects + scraping tools). Just copy-paste it into your README.md 👇
 
+⸻
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vinayak+Mishra!;Data+Analyst+%7C+Data+Storyteller;Turning+Data+into+Actionable+Insights" />
+</p>
 ---
-
+<h1 align="center">👋 Welcome to My Data World</h1>
+<p align="center">
+  📊 Data Analyst | 📈 Insight Creator | 🧠 Problem Solver  
+</p>
+---
 ## 💡 About Me  
-
-I’m a passionate **Data Analyst** who loves turning raw data into meaningful business insights.  
-With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize in transforming complex datasets into clear, actionable stories.  
-
-✨ *“I don’t just analyze data — I let it speak.”*  
-
-### 🎯 What I Do
-- 📥 **Collect** and prepare relevant datasets  
-- 🧹 **Clean & transform** messy data for analysis  
-- 📈 **Analyze** key trends, KPIs, and patterns  
-- 📊 **Visualize** insights that drive decision-making  
-
+✨ Passionate about turning **raw data into meaningful insights**  
+📊 Skilled in analyzing trends and building **data-driven solutions**  
+🎯 Focused on solving real-world business problems  
+💬 *“Data is not just numbers — it tells a story. I help translate it.”*  
 ---
-
-## 💻 Tech Stack  
-
+## 🧠 Skills & Expertise  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+💻 **Languages & Tools**  
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<br><br>
+📚 **Libraries & Tools**  
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
 </p>
-
 ---
-
-## 🧰 Tools & Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
----
-
 ## 🚀 Featured Projects  
-
-### 🌾 [Sugarcane Production Data Analysis](https://github.com/vinayakmishra4/Project-Sugarcane-Production)  
-A **data cleaning and analysis project** focused on **global sugarcane production trends**.
-
-**Highlights:**  
-- Cleaned messy real-world dataset  
-- Handled missing values & inconsistent formats  
-- Performed EDA using Pandas & NumPy  
-- Built visual insights using Matplotlib & Seaborn  
-- Prepared dataset for predictive analytics  
-
+### 🌾 Sugarcane Production Analysis  
+🔗 https://github.com/vinayakmishra4/Project-Sugarcane-Production  
+- ✔ Cleaned and transformed messy real-world dataset  
+- ✔ Identified global production trends and top producers  
+- ✔ Visualized insights using Python libraries  
 ---
-### ❤️ [Heart Disease Data Analysis](https://github.com/vinayakmishra4/Project-Heart-Disease-Analysis)
-
-A **data analysis project** focused on **exploring factors related to heart disease**.
-
-**Highlights:**
-
-* Loaded and cleaned heart disease dataset
-* Explored clinical & demographic features
-* Performed EDA using Pandas & NumPy
-* Visualized trends with Matplotlib & Seaborn
-* Insights can support predictive analysis
-
+### ❤️ Heart Disease Analysis  
+🔗 https://github.com/vinayakmishra4/Project-Heart-Disease-Analysis  
+- ✔ Explored clinical data to identify risk factors  
+- ✔ Analyzed relationships between health indicators  
+- ✔ Built visual insights for better understanding  
 ---
-## 📊 [Black Friday Sales Analysis](https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis)
-
-Performed **Exploratory Data Analysis (EDA)** on retail sales data to uncover customer purchasing behavior and revenue trends. Identified key revenue drivers such as the **26–35 age group**, **male customers**, **City Category B**, and **top-performing product categories** using Python (Pandas, NumPy, Matplotlib, Seaborn). Generated actionable business insights for marketing, customer targeting, and sales optimization, and prepared the dataset for future machine learning modeling.
-
-
+### 🛍️ Black Friday Sales Analysis  
+🔗 https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis  
+- ✔ Analyzed customer behavior and revenue trends  
+- ✔ Identified top-performing segments and categories  
+- ✔ Generated insights for marketing strategies  
 ---
-### 🌍 [Global GDP Analysis](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
-
-A **data analysis project** focused on **exploring global economic trends using GDP data**.
-
-**Highlights:**
-
-* Cleaned and processed historical GDP data for 200+ countries
-* Handled missing values and standardized inconsistent formats
-* Performed exploratory data analysis (EDA) using Pandas & NumPy
-* Visualized economic trends with Matplotlib & Seaborn
-* Derived insights on top-performing and emerging economies
-
+### 🌍 Global GDP Analysis  
+🔗 https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis  
+- ✔ Processed GDP data for 200+ countries  
+- ✔ Compared economic growth trends  
+- ✔ Highlighted global performance insights  
 ---
-
-## 📊 GitHub Stats & Activity  
-
-
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vinayakmishra4&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakmishra4&theme=radical"/>
 </p>
-
 ---
-
-## 📫 Let’s Connect  
-
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/vinayak-mishra-93003b1b3">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
@@ -107,15 +78,13 @@ A **data analysis project** focused on **exploring global economic trends using 
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
 ---
-
 ## ⚡ Fun Fact  
-
-☕ I turn **coffee into code** and **messy data into powerful insights**
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
+☕ I turn <b>coffee into code</b> and <b>data into decisions</b>  
 </p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer"/>
+</p>
+
