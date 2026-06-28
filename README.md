@@ -61,7 +61,7 @@ flowchart TD
 ## 🚀 Featured Projects
 
 <details>
-<summary><h3>🌾 Sugarcane Production Data Analysis</h3></summary>
+<summary style="font-size: 1.25em; font-weight: 600; cursor: pointer; padding: 4px 0;">🌾 Sugarcane Production Data Analysis</summary>
 
 A data cleaning and EDA project exploring **global sugarcane production trends** across 100+ countries.
 
@@ -78,7 +78,7 @@ A data cleaning and EDA project exploring **global sugarcane production trends**
 </details>
 
 <details>
-<summary><h3>❤️ Heart Disease Data Analysis</h3></summary>
+<summary style="font-size: 1.25em; font-weight: 600; cursor: pointer; padding: 4px 0;">❤️ Heart Disease Data Analysis</summary>
 
 An exploratory data analysis project uncovering **clinical and demographic risk factors** associated with heart disease.
 
@@ -95,7 +95,7 @@ An exploratory data analysis project uncovering **clinical and demographic risk 
 </details>
 
 <details>
-<summary><h3>🛍️ Black Friday Sales Analysis</h3></summary>
+<summary style="font-size: 1.25em; font-weight: 600; cursor: pointer; padding: 4px 0;">🛍️ Black Friday Sales Analysis</summary>
 
 A comprehensive EDA on retail transaction data to uncover **customer purchasing behavior and revenue drivers**.
 
@@ -113,7 +113,7 @@ A comprehensive EDA on retail transaction data to uncover **customer purchasing 
 </details>
 
 <details>
-<summary><h3>🌍 Global GDP Analysis</h3></summary>
+<summary style="font-size: 1.25em; font-weight: 600; cursor: pointer; padding: 4px 0;">🌍 Global GDP Analysis</summary>
 
 A data analysis project exploring **global economic trends and growth patterns** across 200+ countries using historical GDP data.
 
