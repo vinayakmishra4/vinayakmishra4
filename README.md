@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&text=Hello!&height=100&section=header"/>
+</p>
+
 # <!-- Animated Typing Intro -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vinayak+Mishra!;Data+Analyst+%7C+Data+Storyteller;Turning+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 ---
