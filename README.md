@@ -14,31 +14,17 @@ With expertise in **Python**, **SQL**, **Excel**, and **Power BI**, I specialize
 
 ## 🔄 My Data Science Workflow
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  ▼                                                                 │
-📋 Problem Definition          Goals, KPIs, success metrics        │
-  │                                                                 │
-  ▼                                                                 │
-📥 Data Collection & EDA ◄─────────────────────────────┐           │
-  │                        revisit data if model fails  │           │
-  ▼                                                     │           │
-🧹 Preprocessing               Clean, encode, engineer  │           │
-  │                                                     │           │
-  ▼                                                     │           │
-🤖 Model Development           Train, tune, validate    │           │
-  │                                                     │           │
-  ▼                                                     │           │
-📊 Evaluation            Metrics, bias checks, A/B ────►┘           │
-  │                                                                 │
-  ▼                                                                 │
-🚀 Deployment                  API, pipeline, serving              │
-  │                                                                 │
-  ▼                                                                 │
-📡 Monitor & Retrain ──── drift detected → retrain loop            │
-  │                                                                 │
-  └──────────────── reframe problem if needed ──────────────────────┘
+```mermaid
+flowchart TD
+    A["📋 Problem Definition<br/><sub>Goals, KPIs, success metrics</sub>"] --> B["📥 Data Collection & EDA"]
+    B --> C["🧹 Preprocessing<br/><sub>Clean, encode, engineer</sub>"]
+    C --> D["🤖 Model Development<br/><sub>Train, tune, validate</sub>"]
+    D --> E["📊 Evaluation<br/><sub>Metrics, bias checks, A/B</sub>"]
+    E --> F["🚀 Deployment<br/><sub>API, pipeline, serving</sub>"]
+    F --> G["📡 Monitor & Retrain"]
+    G -. "drift detected" .-> C
+    E -. "model underperforms" .-> B
+    G -. "reframe problem" .-> A
 ```
 
 ---
