@@ -4,7 +4,9 @@
 Transforming <strong>raw data</strong> into <strong>actionable business insights</strong> using Python, SQL, Excel, and Power BI.
 <br><br>
 I enjoy solving real-world problems through data analysis, visualization, automation, and storytelling.
-</p>---
+</p>
+
+---
 
 🌟 Profile Highlights
 
@@ -36,7 +38,9 @@ EDA • Reporting • Dashboards
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 
 👨‍💻 About Me
 
