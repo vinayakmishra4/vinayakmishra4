@@ -60,7 +60,8 @@ flowchart TD
 
 ## 🚀 Featured Projects
 
-### 🌾 [Sugarcane Production Data Analysis](https://github.com/vinayakmishra4/Project-Sugarcane-Production)
+<details>
+<summary><b>🌾 Sugarcane Production Data Analysis</b></summary>
 
 A data cleaning and EDA project exploring **global sugarcane production trends** across 100+ countries.
 
@@ -72,9 +73,12 @@ A data cleaning and EDA project exploring **global sugarcane production trends**
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
----
+🔗 [View Repository](https://github.com/vinayakmishra4/Project-Sugarcane-Production)
 
-### ❤️ [Heart Disease Data Analysis](https://github.com/vinayakmishra4/Project-Heart-Disease-Analysis)
+</details>
+
+<details>
+<summary><b>❤️ Heart Disease Data Analysis</b></summary>
 
 An exploratory data analysis project uncovering **clinical and demographic risk factors** associated with heart disease.
 
@@ -86,9 +90,12 @@ An exploratory data analysis project uncovering **clinical and demographic risk 
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
----
+🔗 [View Repository](https://github.com/vinayakmishra4/Project-Heart-Disease-Analysis)
 
-### 🛍️ [Black Friday Sales Analysis](https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis)
+</details>
+
+<details>
+<summary><b>🛍️ Black Friday Sales Analysis</b></summary>
 
 A comprehensive EDA on retail transaction data to uncover **customer purchasing behavior and revenue drivers**.
 
@@ -101,9 +108,12 @@ A comprehensive EDA on retail transaction data to uncover **customer purchasing 
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
----
+🔗 [View Repository](https://github.com/vinayakmishra4/Project-Black-Firday-Sales-Analysis)
 
-### 🌍 [Global GDP Analysis](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
+</details>
+
+<details>
+<summary><b>🌍 Global GDP Analysis</b></summary>
 
 A data analysis project exploring **global economic trends and growth patterns** across 200+ countries using historical GDP data.
 
@@ -114,6 +124,10 @@ A data analysis project exploring **global economic trends and growth patterns**
 - Standardized data formats across 200+ countries and handled missing values for reliable cross-country comparison
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+🔗 [View Repository](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
+
+</details>
 
 ---
 
